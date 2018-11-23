@@ -1,11 +1,12 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
+## join list
 * 소현섭
 * 강산
-* 백진수
+* baekjinsu
 
 ## 추천 프로그램 
 * gitahead
 * sourcetree
+* add program
